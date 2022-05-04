@@ -1,1 +1,1 @@
-# Landing-page
+# Landing-page for the Odin Project foundation course. 
